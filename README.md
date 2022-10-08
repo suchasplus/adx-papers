@@ -21,7 +21,7 @@ ADX视角的ADX and GD Papers
 
 [A Request-level Guaranteed Delivery Advertising Planning: Forecasting and Allocation](https://github.com/suchasplus/adx-papers/blob/main/pdfs/3394486.3403348.pdf) [ | ACM](https://dl.acm.org/doi/10.1145/3394486.3403348)
 
-[An Adaptive Unified Allocation Framework for Guaranteed Display Advertising]() [ACM](https://dl.acm.org/doi/10.1145/3488560.3498500)
+[An Adaptive Unified Allocation Framework for Guaranteed Display Advertising]() [ | ACM](https://dl.acm.org/doi/10.1145/3488560.3498500)
 
 [Impression Allocation and Policy Search in Display Advertising 2203.07073](https://arxiv.org/abs/2203.07073)
 
