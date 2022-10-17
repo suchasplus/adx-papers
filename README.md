@@ -37,3 +37,5 @@ ADX视角的ADX and GD Papers
 [Display Advertising Pricing in Exchange Markets](https://hanachoi.github.io/research-papers/choi_mela_optimal_reserve.pdf)
 
 [Why Competitive Markets Converge to First Price Auctions](https://research.google/pubs/pub49912/)
+
+[Revenue-Incentive Tradeoffs in Dynamic Reserve Pricing](https://research.google/pubs/pub50657/)
